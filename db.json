@@ -1,8 +1,4 @@
 {
-  "sites": [
-    { "id": 1, "name": "R1" "latitude": "10.84", "longitude": "106.667" },
-    { "id": 2, "name": "R2" "latitude": "10.841", "longitude": "106.665" }
-  ],
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" },
     { "id": 2, "title": "another post", "author": "Mike" }
